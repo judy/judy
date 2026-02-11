@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hey, I'm Clinton 👋
 
-<!--
-**judy/judy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior engineer at **Retail Zipline**, where I build AI-powered tools for frontline retail teams.
 
-Here are some ideas to get you started:
+I wrote **Zippy** — a production RAG chatbot that's been running for 2.5+ years, built on Rails, pgvector, and OpenAI. It ingests thousands of documents, decomposes them into atomic facts, and retrieves answers scoped by role and permissions. It's one of Zipline's flagship features.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Before the AI era, I spent 15+ years building web applications in Ruby on Rails — from precision agriculture to event ticketing to weather infrastructure. I've done SRE, DevOps, full-stack product work, and a fair amount of yelling at CSS.
+
+### What I'm into
+
+- 🤖 **AI in production** — RAG, tool calling, embeddings, the messy reality of shipping ML features
+- 💎 **Ruby & Rails** — my home turf since ~2009
+- 🎵 **Music production** — I make electronic music as [JUDYIO](https://weeklybeats.com/judy) and try to release a song every week
+- 🛠️ **Building things** — whether it's software, developer tools, or a [hackerspace](http://www.makespace.io)
+
+### Some things I've built
+
+- **[Zippy](https://www.retailzipline.com)** — Production RAG chatbot with atomic fact extraction, pgvector search, tool calling, and streaming responses
+- **[Kanina](https://github.com/judy/kanina)** — RabbitMQ messaging for Rails
+- **[Artful.ly](https://github.com/fracturedatlas/artfully_app)** — Open-source event ticketing and CRM (Rails engine)
+- **MegaSeed** — Internal load testing tool that generates massive fake datasets for performance testing at scale
+
+### Where to find me
+
+- 🌐 [clinton.judy.io](https://clinton.judy.io)
+- 📍 State College, PA
