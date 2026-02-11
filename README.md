@@ -15,7 +15,7 @@ Before the AI era, I spent 15+ years building web applications in Ruby on Rails 
 
 ### Some things I've built
 
-- **[Zippy](https://www.retailzipline.com)** — Production RAG chatbot with atomic fact extraction, pgvector search, tool calling, and streaming responses
+- **[Zippy](https://getzipline.com/ai-at-zipline/)** — Production RAG chatbot live with 50+ retail brands. Atomic fact extraction, pgvector search, tool calling, and streaming responses
 - **[Kanina](https://github.com/judy/kanina)** — RabbitMQ messaging for Rails
 - **[Artful.ly](https://github.com/fracturedatlas/artfully_app)** — Open-source event ticketing and CRM (Rails engine)
 - **MegaSeed** — Internal load testing tool that generates massive fake datasets for performance testing at scale
