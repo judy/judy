@@ -1,27 +1,34 @@
 # Hey, I'm Clinton 👋
 
-Senior engineer at **Retail Zipline**, where I build AI-powered tools for frontline retail teams.
+I build production AI products end to end, on Rails.
 
-I wrote **Zippy**, a production RAG chatbot that's been running for 2.5+ years, built on Rails, pgvector, and OpenAI. It ingests thousands of documents, decomposes them into atomic facts, and retrieves answers scoped by role and permissions. It's one of Zipline's flagship features.
+For three years I worked on **Zippy**, Zipline's flagship AI assistant: 50+ retail brands, 1,000,000+ conversations, 2,000,000+ pages indexed. Before that, 15+ years of Rails, SRE, and DevOps: precision agriculture, event ticketing, weather infrastructure, and a fair amount of yelling at CSS.
 
-Before the AI era, I spent 15+ years building web applications in Ruby on Rails; from precision agriculture to event ticketing to weather infrastructure. I've done SRE, DevOps, full-stack product work, and a fair amount of yelling at CSS.
+**I'm open to new roles.** Senior or Staff, full-stack or AI systems, remote.
+
+### What I'm building now
+
+- **Kormos** — my own agent runtime. Provider-agnostic, MCP client, tool dispatch, composable context enrichers, scheduled intents, voice over Twilio. I run several agents on it daily, installed in a couple places now... to be open sourced eventually?
+- **[Hitherto](https://github.com/judyio/hitherto)** — a spoiler-aware story timeline viewer. Character world-lines through story time, revealed only as far as you've read.
+- **[VCV Rack modules](https://github.com/judyio/vcv-rack-modules)** — Eurorack in software, because the hardware rig wasn't enough.
 
 ### What I'm into
 
-- 🤖 **AI in production** — RAG, tool calling, embeddings, the messy reality of shipping ML features
-- 💎 **Ruby & Rails** — my home turf since ~2009
-- 🎵 **Music production** — I make electronic music as [JUDYIO](https://judy.io/music) and try to release a song every week
-- 🛠️ **Building things** — whether it's software, developer tools, or a [hackerspace](http://www.makespace.io)
+- 🤖 **AI in production** — RAG, agents, tool calling, evals, and the messy reality of shipping ML features to people who don't care that it's ML
+- 💎 **Ruby & Rails** — home turf since ~2009
+- 🎵 **Music production** — electronic music as [JUDYIO](https://judy.io/music). I also started a weird kind of 
+- 🛠️ **Building things** — software, hardware, and once founded a [hackerspace](http://www.makespace.io)
 
-### Some things I've built
+### Older work
 
-- **[Zippy](https://getzipline.com/ai-at-zipline/)** — Production RAG chatbot live with 50+ retail brands. Atomic fact extraction, pgvector search, tool calling, and streaming responses
+- **[Zippy](https://getzipline.com/ai-at-zipline/)** — the production RAG assistant described above
 - **[Kanina](https://github.com/judy/kanina)** — RabbitMQ messaging for Rails
-- **[Artful.ly](https://github.com/fracturedatlas/artfully_app)** — Open-source event ticketing and CRM (Rails engine)
-- **MegaSeed** — Internal load testing tool that generates massive fake datasets for performance testing at scale
+- **[Artful.ly](https://github.com/fracturedatlas/artfully_app)** — open-source event ticketing and CRM (Rails engine)
 
 ### Where to find me
 
-- 🌐 [clinton.judy.io](https://clinton.judy.io) - Resume Site
-- 🌐 [judy.io](https://judy.io) - Portfolio Site
+- 🌐 [clinton.judy.io](https://clinton.judy.io) — resume
+- 🌐 [judy.io](https://judy.io) — portfolio and writing
+- 💼 [linkedin.com/in/clintonjudy](https://linkedin.com/in/clintonjudy)
+- 📧 clinton@judy.io
 - 📍 State College, PA
