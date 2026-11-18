@@ -1,10 +1,8 @@
 # Hey, I'm Clinton 👋
 
-I build production AI products end to end, on Rails.
+I'm a Senior Software Engineer at [Tern](https://tern.travel/). I build production AI products end to end, on Rails. 
 
 For three years I worked on **Zippy**, Zipline's flagship AI assistant: 50+ retail brands, 1,000,000+ conversations, 2,000,000+ pages indexed. Before that, 15+ years of Rails, SRE, and DevOps: precision agriculture, event ticketing, weather infrastructure, and a fair amount of yelling at CSS.
-
-**I'm open to new roles.** Senior or Staff, full-stack or AI systems, remote.
 
 ### What I'm building now
 
@@ -14,9 +12,9 @@ For three years I worked on **Zippy**, Zipline's flagship AI assistant: 50+ reta
 
 ### What I'm into
 
-- 🤖 **AI in production** — RAG, agents, tool calling, evals, and the messy reality of shipping ML features to people who don't care that it's ML
+- 🤖 **AI in production** — RAG, agents, tool calling, evals, cache optimization...
 - 💎 **Ruby & Rails** — home turf since ~2009
-- 🎵 **Music production** — electronic music as [JUDYIO](https://judy.io/music). I also started a weird kind of 
+- 🎵 **Music production** — electronic music as [JUDYIO](https://judy.io/music). I also started a technopunk band called [American Vultures](https://www.instagram.com/american.vultures/).
 - 🛠️ **Building things** — software, hardware, and once founded a [hackerspace](http://www.makespace.io)
 
 ### Older work
@@ -27,8 +25,8 @@ For three years I worked on **Zippy**, Zipline's flagship AI assistant: 50+ reta
 
 ### Where to find me
 
-- 🌐 [clinton.judy.io](https://clinton.judy.io) — resume
 - 🌐 [judy.io](https://judy.io) — portfolio and writing
+- 🌐 [clinton.judy.io](https://clinton.judy.io) — resume
 - 💼 [linkedin.com/in/clintonjudy](https://linkedin.com/in/clintonjudy)
 - 📧 clinton@judy.io
 - 📍 State College, PA
